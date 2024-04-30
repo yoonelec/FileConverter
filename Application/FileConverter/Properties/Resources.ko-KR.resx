@@ -118,148 +118,148 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="About" xml:space="preserve">
-    <value>About</value>
+    <value>정보</value>
   </data>
   <data name="ActionWhenConversionSucceedDescription" xml:space="preserve">
-    <value>Allow you to choose what you want to do with your input files if the conversion succeed</value>
+    <value>파일변환 후 수행할 작업을 선택합니다</value>
   </data>
   <data name="ActionWhenConversionSucceedTitle" xml:space="preserve">
-    <value>Action when conversion succeed</value>
+    <value>작업이 끝나면:</value>
   </data>
   <data name="AddNewPreset" xml:space="preserve">
-    <value>New preset</value>
+    <value>새 프리셋</value>
   </data>
   <data name="Application" xml:space="preserve">
-    <value>Application</value>
+    <value>설정</value>
   </data>
   <data name="AudioTitle" xml:space="preserve">
-    <value>Audio</value>
+    <value>오디오</value>
   </data>
   <data name="AutomaticallyCheckForUpdates" xml:space="preserve">
-    <value>Automatically check for updates when File Converter starts</value>
+    <value>프로그램 실행시 자동으로 업데이트 확인</value>
   </data>
   <data name="AutomaticallyExitWhenAllConversionsFinished" xml:space="preserve">
-    <value>Automatically exit when all conversions finished</value>
+    <value>모든 작업이 끝나면 자동으로 창 닫기</value>
   </data>
   <data name="ClampToLowestPowerOfTwoSize" xml:space="preserve">
     <value>Clamp to lowest power of 2 size</value>
   </data>
   <data name="Close" xml:space="preserve">
-    <value>Close</value>
+    <value>닫기</value>
   </data>
   <data name="ConversionPresets" xml:space="preserve">
-    <value>Conversion Presets</value>
+    <value>프리셋</value>
   </data>
   <data name="ConversionQueueTitle" xml:space="preserve">
-    <value>Files to convert</value>
+    <value>변환할 파일</value>
   </data>
   <data name="ConvertedFrom" xml:space="preserve">
-    <value>Converted from</value>
+    <value>변환한 파일</value>
   </data>
   <data name="Diagnostics" xml:space="preserve">
-    <value>Logs</value>
+    <value>로그</value>
   </data>
   <data name="DiagnosticsButtonTooltip" xml:space="preserve">
-    <value>Logs</value>
+    <value>로그</value>
   </data>
   <data name="DocumentationButtonDescription" xml:space="preserve">
-    <value>Open documentation</value>
+    <value>문서 페이지 열기</value>
   </data>
   <data name="DonateButtonTitle" xml:space="preserve">
-    <value>Donate</value>
+    <value>후원</value>
   </data>
   <data name="DonateDescription" xml:space="preserve">
-    <value>Don't forget to reward my work if you like it :)</value>
+    <value>혹시 제 작업물이 마음에 드셨다면 후원 부탁드립니다 :)</value>
   </data>
   <data name="DownloadAndInstallButtonDescription" xml:space="preserve">
-    <value>The update will be downloaded in background, and installed once you exit File Converter.</value>
+    <value>업데이트 파일은 백그라운드에서 다운로드 되며, 창을 닫으면 설치됩니다.</value>
   </data>
   <data name="DownloadAndInstallButtonTitle" xml:space="preserve">
-    <value>Install when I exit File Converter</value>
+    <value>창을 닫은 뒤 설치</value>
   </data>
   <data name="Encoding" xml:space="preserve">
-    <value>Encoding :</value>
+    <value>인코딩 :</value>
   </data>
   <data name="EncodingSpeed" xml:space="preserve">
-    <value>Encoding speed :</value>
+    <value>인코딩 속도 :</value>
   </data>
   <data name="FileConverterStartHelp1" xml:space="preserve">
-    <value>File Converter is a shell extension.</value>
+    <value>File Converter는 쉘 익스텐션입니다.</value>
   </data>
   <data name="FileConverterStartHelp2" xml:space="preserve">
-    <value>That means it is integrated into the Windows explorer.</value>
+    <value>즉 윈도우 탐색기에 통합되어 있다는 뜻입니다.</value>
   </data>
   <data name="FileConverterStartHelp3" xml:space="preserve">
-    <value>To use File Converter please open the explorer and right-click on any file you like to bring up the context menu where you will find File Converter commands (see the readme file to see the list of compatible file formats).</value>
+    <value>탐색기에서 아무 파일이나 우클릭해 컨텍스트 메뉴를 띄우면 File Converter를 찾으실 수 있습니다. (호환되는 파일 포맷 목록은 readme 파일을 참조하세요.)</value>
   </data>
   <data name="FileNameTemplate" xml:space="preserve">
-    <value>File name template</value>
+    <value>파일명 템플릿</value>
   </data>
   <data name="FramesPerSecond" xml:space="preserve">
-    <value>Frames per second :</value>
+    <value>초당 프레임 수 :</value>
   </data>
   <data name="GitHubButtonDescription" xml:space="preserve">
-    <value>Open GitHub project page</value>
+    <value>GitHub 프로젝트 페이지 열기</value>
   </data>
   <data name="Help" xml:space="preserve">
-    <value>help ?</value>
+    <value>도움말</value>
   </data>
   <data name="InputExample" xml:space="preserve">
-    <value>Input example</value>
+    <value>입력 예시</value>
   </data>
   <data name="InputFormats" xml:space="preserve">
-    <value>Input formats</value>
+    <value>입력 포맷</value>
   </data>
   <data name="InputPostConversionActionDeleteName" xml:space="preserve">
-    <value>Delete</value>
+    <value>삭제</value>
   </data>
   <data name="InputPostConversionActionMoveInArchiveFolderName" xml:space="preserve">
-    <value>Move in an archive folder</value>
+    <value>아카이브 폴더로 이동하기</value>
   </data>
   <data name="InputPostConversionActionNoneName" xml:space="preserve">
-    <value>None</value>
+    <value>아무 것도 안 하기</value>
   </data>
   <data name="InstallButtonDescription" xml:space="preserve">
-    <value>The update has been downloaded. Exit File Converter and install the update now.</value>
+    <value>업데이트가 다운로드 되었습니다. File Converter를 종료하고 지금 설치하세요.</value>
   </data>
   <data name="InstallButtonTitle" xml:space="preserve">
-    <value>Install when I exit File Converter</value>
+    <value>File Converter를 종료하면 설치하기</value>
   </data>
   <data name="IssueButtonDescription" xml:space="preserve">
-    <value>Report an issue</value>
+    <value>문제 보고</value>
   </data>
   <data name="MoveDownSelectedPreset" xml:space="preserve">
-    <value>Move down selected preset</value>
+    <value>선택한 프리셋 아래로 내리기</value>
   </data>
   <data name="MoveUpSelectedPreset" xml:space="preserve">
-    <value>Move up selected preset</value>
+    <value>선택한 프리셋 위로 올리기</value>
   </data>
   <data name="Mp3CbrDescription" xml:space="preserve">
-    <value>Constant bitrate encoding</value>
+    <value>고정 비트레이트 인코딩</value>
   </data>
   <data name="Mp3VbrDescription" xml:space="preserve">
-    <value>Variable bitrate encoding</value>
+    <value>가변 비트레이트 인코딩</value>
   </data>
   <data name="NinetyDegreesRotationTitle" xml:space="preserve">
     <value>90°</value>
   </data>
   <data name="NinetyDegreesRotationTooltip" xml:space="preserve">
-    <value>90° counter clockwise rotation</value>
+    <value>시계 반대방향으로 90° 회전</value>
   </data>
   <data name="Ok" xml:space="preserve">
-    <value>Ok</value>
+    <value>예</value>
   </data>
   <data name="OneEightyDegreesRotationTitle" xml:space="preserve">
     <value>180°</value>
   </data>
   <data name="OneEightyDegreesRotationTooltip" xml:space="preserve">
-    <value>180° rotation</value>
+    <value>시계 반대방향으로 180° 회전</value>
   </data>
   <data name="OutputFileNameTemplateSample" xml:space="preserve">
     <value>C:\Music\Artist\Album\Song.wav</value>
   </data>
   <data name="OutputExample" xml:space="preserve">
-    <value>Output</value>
+    <value>예상 결과물</value>
   </data>
   <data name="OutputFilePathTemplateHelp" xml:space="preserve">
     <value>(p): input file path
